@@ -1,0 +1,17 @@
+wiznard spellbook
+-----------------
+
+Cantrips
+-----------------
+Mage Hand
+Mind Sliver (tasha's)
+Ray of Frost
+
+1st Level
+-----------------
+Color Spray
+Find Familiar
+Grease
+Magic Missile
+Burning Hands
+Mage Armor
