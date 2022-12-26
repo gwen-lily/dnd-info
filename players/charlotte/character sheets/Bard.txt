@@ -1,0 +1,15 @@
+Gnome
+-----------------------
+
+[0] Cantrips
+-----------------------
+Minor Illusion (Forest Gnome)
+Vicious Mockery
+Message
+
+[1] 1st Level
+-----------------------
+Tasha's Hideous Laughter
+Charm Person
+Unseen Servant
+Illusory Script
